@@ -1,0 +1,13 @@
+ID,Password,Surname,First_names,Date_of_birth,Gender,Address,Contact_details_1,Contact_details_2
+198310286608052,268112,STRUWIG,PIETER WILLEM,1983-10-28,m,71 Kwena street; Worcester; Western Cape,0736333682,PIETER WILLEM@gmail.com
+196907273487050,032291,ELLIS,MARINUS,1969-07-27,f,77 Kwena street; Worcester; Western Cape,0830080460,MARINUS@gmail.com
+193705015219037,073888,SCHUTTE,TSEPO SAMUEL,1937-05-01,m,90 Pretorius straat; Richardsbaai; Kwazulu-Natal,0808409492,TSEPO SAMUEL@gmail.com
+194304022455018,254703,THULO,MAIAR MAMDUH MOSTAFA,1943-04-02,f,30 Goetz straat; Johannesburg; Gauteng,0811220353,MAIAR MAMDUH MOSTAFA@gmail.com
+195011088993061,770927,AZAR,KAYLA,1950-11-08,m,90 Spruit straat; Pietermaritzburg; Kwazulu-Natal,0769321704,KAYLA@gmail.com
+199606157540077,794703,VAN NIEKERK,DWAYNE,1996-06-15,m,36 Mosidi street; Plokwane; Limpopo,0766661478,DWAYNE@gmail.com
+201611273368070,011688,DU TOIT,MORNÉ WEYERS,2016-11-27,f,33 Goetz straat; Cape Town; Western Cape,0778459786,MORNÉ WEYERS@gmail.com
+197111057182023,979617,STEYN,ELÖISE,1971-11-05,m,99 Eleazer straat; Pietermaritzburg; Kwazulu-Natal,0770036924,ELÖISE@gmail.com
+200212302472011,167331,STEYN,MORNÉ JAN,2002-12-30,f,99 Eleazer straat; Pietermaritzburg; Kwazulu-Natal,,
+201208186486067,634215,STEYN,CHINEAD,2012-08-18,m,99 Eleazer straat; Pietermaritzburg; Kwazulu-Natal,0742518948,
+199810265113077,TestCreate,Dummy,A,1998-10-26,m,24 Huis st,123456789,piet@gmail
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
